@@ -1,2 +1,0 @@
-# SearchData
-Created with CodeSandbox

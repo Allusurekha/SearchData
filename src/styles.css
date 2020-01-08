@@ -1,0 +1,51 @@
+.App {
+  font-family: sans-serif;
+  text-align: right;
+}
+h5 {
+  text-align: center;
+}
+
+table {
+  text-align: center;
+  border: 1px solid black;
+  width: 100%;
+}
+
+td {
+  font-size-adjust: 0.1;
+  width: 100%;
+}
+
+tr {
+  width: 100%;
+}
+
+.search {
+  text-align: right;
+}
+
+.search-input {
+  margin: 10px;
+}
+
+.data {
+  border: none;
+}
+
+.data tr td {
+  border: 1px solid black;
+  font-size: 12px;
+}
+
+.data th td {
+  text-align: center;
+}
+
+.container {
+  height: 100%;
+}
+
+.heading {
+  margin: 0px;
+}
