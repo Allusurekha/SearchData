@@ -48,7 +48,7 @@ class Users extends Component {
               <table class="data">
                 {users.filter(searchingFor(term)).map(user => (
                   <tr>
-                    <td>{user.name}</td>
+                    <td class="user_name">{user.name}</td>
                   </tr>
                 ))}
               </table>

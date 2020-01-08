@@ -49,3 +49,7 @@ tr {
 .heading {
   margin: 0px;
 }
+
+.user_name {
+  text-align: left;
+}
