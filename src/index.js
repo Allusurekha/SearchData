@@ -20,4 +20,3 @@ ReactDOM.render(
   </Provider>,
   rootElement
 );
-//added
