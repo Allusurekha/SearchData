@@ -2,7 +2,7 @@ import React from "react";
 import ReactDOM from "react-dom";
 import "./styles.css";
 import { Provider } from "react-redux";
-import UsersContainer from "./containers/UsersContainers";
+import UsersContainer from "./containers/UsersContainer";
 import store from "./redux/store";
 
 function App() {

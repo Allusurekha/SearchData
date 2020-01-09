@@ -15,6 +15,10 @@ class Users extends Component {
     this.searchHandler = this.searchHandler.bind(this);
   }
 
+  componentWillMount() {
+    this.props.loadUsers();
+  }
+
   searchHandler(event) {
     this.setState({ term: event.target.value });
   }
